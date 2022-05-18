@@ -1,1 +1,4 @@
 proverka comman git pull
+
+проверка команды git push
+
